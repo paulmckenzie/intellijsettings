@@ -1,0 +1,14 @@
+<application>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://10.126.96.60:8111&amp;^%$#@mckenpau@#$%^&amp;http://boost-build-imac.local:8111&amp;^%$#@mckenpau" />
+  </component>
+</application>
