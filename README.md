@@ -1,2 +1,0 @@
-# intellijsettings
-intellij-settings
