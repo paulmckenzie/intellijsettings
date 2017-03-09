@@ -10,18 +10,19 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*QuestionSpec.scala</mask>
       <mask>*.build</mask>
-      <mask>*.json</mask>
       <mask>*.conf</mask>
       <mask>*.con</mask>
       <mask>*.co</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.sca</mask>
