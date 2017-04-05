@@ -4,6 +4,7 @@
     <option name="COMPILE_SERVER_ID" value="358381c7-e9e4-4171-8bef-aace3f3506dd" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
     <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4096" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss16m" />
     <option name="COMPILE_SERVER_SHUTDOWN_DELAY" value="2" />
   </component>
 </application>
