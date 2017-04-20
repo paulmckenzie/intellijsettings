@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.conf" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,9 +15,6 @@
       <mask>*.mxml</mask>
       <mask>*QuestionSpec.scala</mask>
       <mask>*.build</mask>
-      <mask>*.conf</mask>
-      <mask>*.con</mask>
-      <mask>*.co</mask>
       <mask>*.c</mask>
       <mask>*.js</mask>
       <mask>*.jso</mask>
@@ -33,6 +30,9 @@
       <mask>*Sp.scala</mask>
       <mask>*S.scala</mask>
       <mask>*.scala</mask>
+      <mask>*.co</mask>
+      <mask>*.con</mask>
+      <mask>*.conf</mask>
     </recentFileMasks>
   </component>
 </application>
