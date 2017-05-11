@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,13 +20,10 @@
       <mask>*.c</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
       <mask>*Spec.scala</mask>
       <mask>*Spe.scala</mask>
       <mask>*Sp.scala</mask>
       <mask>*S.scala</mask>
-      <mask>*.scala</mask>
       <mask>*.co</mask>
       <mask>*.con</mask>
       <mask>*.conf</mask>
@@ -33,8 +31,11 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
