@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../bilberry/src/main/scala/bilberry/comet/queue/BoostJsCmds.scala - [bilberry]'" />
+    <option name="defaultScopeName" value="File '.../bilberry/src/main/scala/bilberry/comet/queue/BoostJsCmds.scala - [bilberry]'" />
+    <option name="SEARCH_SCOPE" value="File '.../bilberry/src/main/scala/bilberry/comet/queue/BoostJsCmds.scala - [bilberry]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
