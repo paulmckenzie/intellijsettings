@@ -1,7 +1,0 @@
-<templateSet group="surround">
-  <template name="O" value="Option[$SELECTION$]" description="Surround type with Option" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
-  </template>
-</templateSet>
