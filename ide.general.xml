@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -9,6 +10,5 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>
