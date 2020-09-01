@@ -8,5 +8,6 @@
     <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private " />
     <option name="ASK_USE_LATEST_PLUGIN_BUILDS" value="false" />
+    <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
   </component>
 </application>
